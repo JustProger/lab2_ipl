@@ -1,0 +1,71 @@
+.strong {
+	font-weight: bold;
+}
+
+.em {
+	font-style: italic;
+}
+
+.mark {
+	background-color: mark;
+    color: marktext;
+}
+
+.s {
+	text-decoration: line-through;
+}
+
+.small {
+	font-size: smaller;
+}
+
+.cite {
+	font-style: italic;
+}
+
+.samp {
+	font-family: monospace;
+}
+
+.sub {
+	vertical-align: sub;
+    font-size: smaller;
+}
+
+.sup {
+	vertical-align: super;
+    font-size: smaller;
+}
+
+.var {
+	font-style: italic;
+}
+
+.div-table {
+  display: table;
+  border-collapse: collapse;
+}
+
+.div-table-caption {
+  display: table-caption;
+  background: #009999;
+}
+
+.div-table-row {
+  display: table-row;
+}
+
+.div-table-col {
+  display: table-cell;
+  border: 1px solid #ccc;
+  padding: 5px;
+  text-align: center;
+}
+
+.div-no-padding {
+  padding: 0;
+}
+
+.div-table-inner {
+	width: 100%;
+}
